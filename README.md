@@ -13,7 +13,7 @@
 <br>
 I'm here to send waves out in the universe.
 <br>
-Naah, just kidding
+Just joking
 </p>
 
 <table>
