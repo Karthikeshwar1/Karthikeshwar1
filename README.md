@@ -1,6 +1,6 @@
-<img src="banner_karthikeshwar.png">
+[![](banner_karthikeshwar.png)](https://karthikeshwar1.github.io/ka/)
 
-<body style="background-color:white;">
+<!-- <body style="background-color:white;"> -->
 <h3 align="center">
 <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&color=808080&size=29&center=true&width=500&height=100&lines=Namask%C4%81ra%E1%B8%A5;Hello;Va%E1%B9%87akkam;Namaste;Kon'nichiwa;Hola" alt="greeting in different languages"> -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&color=CF0000&size=29&center=true&width=500&height=100&lines=Namask%C4%81ra%E1%B8%A5;Hello;Va%E1%B9%87akkam;Namaste;Kon'nichiwa;Hola" alt="greeting in different languages">
@@ -28,3 +28,7 @@ Just joking -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&color=808080&size=29&center=true&width=500&height=100&lines=Get+lost;Tolagi+h%C5%8Dgu;bhaad+mein+jao;Tolaintu+p%C5%8D;Usero;Skedaddle)](https://git.io/typing-svg)
 
 </h3>
+
+[![Github website link](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthikeshwar1/ka)
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthikeshwar/)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify.com)
