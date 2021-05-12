@@ -23,11 +23,7 @@ Just joking -->
 
 </h3>
 
-<h3 align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&color=808080&size=29&center=true&width=500&height=100&lines=Get+lost;Tolagi+h%C5%8Dgu;bhaad+mein+jao;Tolaintu+p%C5%8D;Usero;Skedaddle)](https://git.io/typing-svg)
-
-</h3>
+<br>
 
 | Projects                                                           | Description                                               |
 | ------------------------------------------------------------------ | --------------------------------------------------------- |
@@ -44,6 +40,14 @@ Just joking -->
 | [controller-vibration-tester](https://github.com/Karthikeshwar1/controller-vibration-tester) | A python script to test vibration motors of game controllers |
 | [Misc](https://github.com/Karthikeshwar1/Misc)                                               | miscellaneous                                                |
 | [Wiki-Wordcloud-Maker](https://github.com/Karthikeshwar1/Wiki-Wordcloud-Maker)               | Creates a wordcloud image based on a given Wikipedia article |
+
+<br>
+
+<h3 align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&color=808080&size=29&center=true&width=500&height=100&lines=Get+lost;Tolagi+h%C5%8Dgu;bhaad+mein+jao;Tolaintu+p%C5%8D;Usero;Skedaddle)](https://git.io/typing-svg)
+
+</h3>
 
 <br>
 
