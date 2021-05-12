@@ -1,5 +1,6 @@
 <img src="banner_karthikeshwar.png">
 
+<body style="background-color:white;">
 <h3 align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&color=000000&size=29&center=true&width=500&height=100&lines=Namask%C4%81ra%E1%B8%A5;Hello;Va%E1%B9%87akkam;Namaste;Kon'nichiwa;Hola" alt="greeting in different languages">
 
