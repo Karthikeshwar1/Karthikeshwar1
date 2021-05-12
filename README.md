@@ -16,13 +16,6 @@
 Just joking -->
 </p>
 
-<h3 align="center">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikeshwar1&hide=java&langs_count=4&custom_title=most%20used%20langugages&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=karthikeshwar1&custom_title=github%20stats&line_height=33&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-</h3>
-
 <br>
 
 | Projects                                                           | Description                                               |
@@ -40,6 +33,15 @@ Just joking -->
 | [controller-vibration-tester](https://github.com/Karthikeshwar1/controller-vibration-tester) | A python script to test vibration motors of game controllers |
 | [Misc](https://github.com/Karthikeshwar1/Misc)                                               | miscellaneous                                                |
 | [Wiki-Wordcloud-Maker](https://github.com/Karthikeshwar1/Wiki-Wordcloud-Maker)               | Creates a wordcloud image based on a given Wikipedia article |
+
+<br>
+
+<h3 align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikeshwar1&hide=java&langs_count=4&custom_title=most%20used%20langugages&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=karthikeshwar1&custom_title=github%20stats&line_height=33&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</h3>
 
 <br>
 
