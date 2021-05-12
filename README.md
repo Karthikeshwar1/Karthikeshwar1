@@ -2,7 +2,7 @@
 
 <body style="background-color:white;">
 <h3 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Caveat&color=000000&size=29&center=true&width=500&height=100&lines=Namask%C4%81ra%E1%B8%A5;Hello;Va%E1%B9%87akkam;Namaste;Kon'nichiwa;Hola" alt="greeting in different languages">
+<img src="https://readme-typing-svg.herokuapp.com?font=Caveat&color=808080&size=29&center=true&width=500&height=100&lines=Namask%C4%81ra%E1%B8%A5;Hello;Va%E1%B9%87akkam;Namaste;Kon'nichiwa;Hola" alt="greeting in different languages">
 
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&color=FFFFFF&size=29&center=true&width=500&height=100&lines=Namask%C4%81ra%E1%B8%A5;Hello;Va%E1%B9%87akkam;Namaste;Kon'nichiwa;Hola)](https://git.io/typing-svg) -->
 
