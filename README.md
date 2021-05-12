@@ -11,9 +11,9 @@
 
 <p align="center">I'm a computer science student interested in artificial intelligence, machine learning and human-computer interaction.
 <br>
-I'm here to send waves out in the universe.
+<!-- I'm here to send waves out in the universe.
 <br>
-Just joking
+Just joking -->
 </p>
 
 <h3 align="center">
