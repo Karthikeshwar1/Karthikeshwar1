@@ -18,12 +18,12 @@ Naah, just kidding
 <tr>
 <td>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikeshwar1&hide=java&langs_count=4&custom_title=most%20used%20langugages)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Karthikeshwar1&hide=java&langs_count=4&custom_title=most%20used%20langugages&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </td>
 <td>
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=karthikeshwar1&custom_title=github%20stats&line_height=33)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=karthikeshwar1&custom_title=github%20stats&line_height=33&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </td>
 </tr>
