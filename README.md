@@ -29,6 +29,24 @@ Just joking -->
 
 </h3>
 
+| Projects                                                           | Description                                               |
+| ------------------------------------------------------------------ | --------------------------------------------------------- |
+| [Araam](https://github.com/Karthikeshwar1/Araam)                   | Control your PC with just a controller!                   |
+| [TABFY](https://github.com/Karthikeshwar1/TABFY)                   | Take-A-Break-For-Your-Eyes!                               |
+| [JumpG](https://github.com/Karthikeshwar1/JumpG)                   | A Windows console game inspired from Google's T-rex game! |
+| [Etcch-A-Sketch](https://github.com/Karthikeshwar1/Etcch-A-Sketch) | Drawing app inspired from the popular toy Etch A Sketch   |
+
+<br>
+
+| Mini-projects                                                                                | Description                                                  |
+| -------------------------------------------------------------------------------------------- | ------------------------------------------------------------ |
+| [screenRec](https://github.com/Karthikeshwar1/screenRec)                                     | A screen recorder to take screenshots and record video       |
+| [controller-vibration-tester](https://github.com/Karthikeshwar1/controller-vibration-tester) | A python script to test vibration motors of game controllers |
+| [Misc](https://github.com/Karthikeshwar1/Misc)                                               | miscellaneous                                                |
+| [Wiki-Wordcloud-Maker](https://github.com/Karthikeshwar1/Wiki-Wordcloud-Maker)               | Creates a wordcloud image based on a given Wikipedia article |
+
+<br>
+
 [![Github website link](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthikeshwar1/ka)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthikeshwar/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify.com)
