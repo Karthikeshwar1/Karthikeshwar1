@@ -21,7 +21,7 @@ Just joking -->
 | Projects                                                           | Description                                               |
 | ------------------------------------------------------------------ | --------------------------------------------------------- |
 | [Araam](https://github.com/Karthikeshwar1/Araam)                   | Control your PC with just a controller!                   |
-| [TABFY](https://github.com/Karthikeshwar1/TABFY)                   | Take-A-Break-For-Your-Eyes!                               |
+| [TABFYE](https://github.com/Karthikeshwar1/TABFYE)                   | Take-A-Break-For-Your-Eyes!                               |
 | [JumpG](https://github.com/Karthikeshwar1/JumpG)                   | A Windows console game inspired from Google's T-rex game! |
 | [Etcch-A-Sketch](https://github.com/Karthikeshwar1/Etcch-A-Sketch) | Drawing app inspired from the popular toy Etch A Sketch   |
 
