@@ -21,6 +21,7 @@ Just joking -->
 | Projects                                                           | Description                                               |
 | ------------------------------------------------------------------ | --------------------------------------------------------- |
 | [Araam](https://github.com/Karthikeshwar1/Araam)                   | Control your PC with just a controller!                   |
+| [airPiano](https://github.com/Karthikeshwar1/airPiano)             | A software with which you can play piano in the air, or play a bigger piano with the computer keyboard |
 | [TABFYE](https://github.com/Karthikeshwar1/TABFYE)                   | Take-A-Break-For-Your-Eyes!                               |
 | [JumpG](https://github.com/Karthikeshwar1/JumpG)                   | A Windows console game inspired from Google's T-rex game! |
 
