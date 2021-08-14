@@ -57,7 +57,7 @@ Just joking -->
 
 <h3 align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&color=808080&size=29&center=true&width=500&height=100&lines=Get+lost;Tolagi+h%C5%8Dgu;bhaad+mein+jao;Tolaintu+p%C5%8D;Usero;Skedaddle)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&color=808080&size=29&center=true&width=500&height=100&lines=Get+lost;Tolagi+h%C5%8Dgu;bhaad+mein+jao;Tolaintu+p%C5%8D;Usero;Skedaddle)](https://git.io/typing-svg) -->
 
 </h3>
 
