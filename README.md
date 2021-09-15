@@ -1,4 +1,4 @@
-[![](banner_karthikeshwar.png)](https://karthikeshwar1.github.io/)
+[![](images/banner_2.png)](https://karthikeshwar1.github.io/)
 
 <!-- <body style="background-color:white;"> -->
 <h3 align="center">
