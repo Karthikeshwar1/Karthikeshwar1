@@ -64,6 +64,9 @@ Just joking -->
 
 <br>
 
-[![Github website link](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthikeshwar1/ka)
+[![Github website link](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://karthikeshwar.github.io)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthikeshwar/)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://spotify.com)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://spotify.com)
+
+[![Portfolio website](https://badgen.net/badge/Portfolio/website/red?icon=chrome)](https://karthikeshwar.github.io)
+[![Portfolio website lite](https://badgen.net/badge/Portfolio/website%20lite/orange?icon=firefox)](https://karthikeshwar.github.io/lite)
