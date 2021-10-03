@@ -39,9 +39,9 @@ Just joking -->
 
 <br>
 
-| Articles     |
+| [Articles](https://github.com/Karthikeshwar1/Karthikeshwar1/tree/main/blog)     |
 | ----------- | 
-| [Essential Software For Computers](https://github.com/Karthikeshwar1/Karthikeshwar1/blob/main/blog/Essential_Software_For_Computers.md)  |
+| [Essential Software For Computers](https://github.com/Karthikeshwar1/Karthikeshwar1/blob/main/blog/articles/Essential_Software_For_Computers.md)  |
 
 <br>
 
