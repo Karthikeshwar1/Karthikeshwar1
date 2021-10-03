@@ -65,14 +65,12 @@ You can add more [here](https://github.com/Karthikeshwar1/Karthikeshwar1/issues)
 
 ## Messaging
 
-|     |     |
-| --- | --- |
-
-| Discord
+|         |
+| ------- |
+| Discord |
 
 ## Accessibility
 
-|     |
-| --- |
-
-| NVAccess
+|          |
+| -------- |
+| NVAccess |
