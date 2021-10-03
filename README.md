@@ -39,6 +39,12 @@ Just joking -->
 
 <br>
 
+| Articles     |
+| ----------- | 
+| [Essential Software For Computers](https://github.com/Karthikeshwar1/Karthikeshwar1/blob/main/blog/Essential_Software_For_Computers.md)  |
+
+<br>
+
 | Artwork     | Description   |
 | ----------- | ------------- |
 | [Game-captures](https://github.com/Karthikeshwar1/Game-captures)  | Amazing photos captured within games |
@@ -65,5 +71,6 @@ Just joking -->
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthikeshwar/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://spotify.com)
 
+<!-- 
 [![Portfolio website](https://badgen.net/badge/Portfolio/website/red?icon=chrome)](https://karthikeshwar1.github.io)
-[![Portfolio website lite](https://badgen.net/badge/Portfolio/website%20lite/orange?icon=firefox)](https://karthikeshwar1.github.io/lite)
+[![Portfolio website lite](https://badgen.net/badge/Portfolio/website%20lite/orange?icon=firefox)](https://karthikeshwar1.github.io/lite) -->
