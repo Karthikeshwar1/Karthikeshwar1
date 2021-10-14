@@ -42,6 +42,7 @@ Just joking -->
 | [Articles](https://github.com/Karthikeshwar1/Karthikeshwar1/tree/main/blog)     |
 | ----------- | 
 | [Essential Software For Computers](https://github.com/Karthikeshwar1/Karthikeshwar1/blob/main/blog/articles_2021/Essential_Software_For_Computers.md)  |
+| [Essential Software For Smartphones](https://github.com/Karthikeshwar1/Karthikeshwar1/blob/main/blog/articles_2021/Essential_Software_For_Smartphones.md) |
 
 <br>
 
