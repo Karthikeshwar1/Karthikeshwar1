@@ -60,7 +60,7 @@ Karthikeshwar's criteria for a software to be 'great':
 | eyeCare, Workrave              |                                         |
 | WinDirStat, CPUID              |                                         |
 | PowerToys                      |                                         |
-| Glary utilities, Teracopy      |                                         |
+| Glary utilities, Teracopy      |     EyeTune(music viz)                                    |
 
 ## Creativity workflow
 
