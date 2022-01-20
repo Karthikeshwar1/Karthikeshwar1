@@ -36,7 +36,7 @@ Just joking -->
 | [Wiki-Wordcloud-Maker](https://github.com/Karthikeshwar1/Wiki-Wordcloud-Maker)               | Creates a wordcloud image based on a given Wikipedia article |
 | [Etcch-A-Sketch](https://github.com/Karthikeshwar1/Etcch-A-Sketch)                           | Drawing app inspired from the popular toy Etch A Sketch   |
 | [algorithms_visualization](https://github.com/Karthikeshwar1/algorithms_visualization)       | Visualizing algorithms using Processing 3                 |
-| [The Witcher 3 Haircut Preview](https://karthikeshwar1.github.io/TheWitcher3HaircutPreview/) | Preview haircuts in the game The Witcher 3                |
+| [The Witcher 3 Haircut Preview](https://github.com/Karthikeshwar1/TheWitcher3HaircutPreview) | Preview haircuts in the game The Witcher 3                |
 
 <br>
 
