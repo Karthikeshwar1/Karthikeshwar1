@@ -18,13 +18,13 @@ Just joking -->
 
 <br>
 
-| Projects                                                           | Description                                               | Team size & date |
-| ------------------------------------------------------------------ | --------------------------------------------------------- | ----------------- |
-| [Araam](https://github.com/Karthikeshwar1/Araam)                   | Control your PC with just a controller!                   | 1, Aug 2021 |
-| [airPiano](https://github.com/Karthikeshwar1/airPiano)             | A software with which you can play piano in the air, or play a bigger piano with the computer keyboard | 1, Mar-Apr 2021 |
-| [TABFYE](https://github.com/Karthikeshwar1/TABFYE)                   | Take-A-Break-For-Your-Eyes!                               | 4, Jun 2020 |
-| [JumpG](https://github.com/Karthikeshwar1/JumpG)                   | A Windows console game inspired from Google's T-rex game! | 2, Apr-Jun 2019 |
-| [GRA](https://github.com/Karthikeshwar1/GRA)                       | Gesture Recognition Application (for RevaHack 2020)        | 4, Nov 2020    |
+| Projects                                               | Description                                                                                            | Team size & date |
+| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------------ | ---------------- |
+| [Araam](https://github.com/Karthikeshwar1/Araam)       | Control your PC with just a controller!                                                                | 1, Aug 2021      |
+| [airPiano](https://github.com/Karthikeshwar1/airPiano) | A software with which you can play piano in the air, or play a bigger piano with the computer keyboard | 1, Mar-Apr 2021  |
+| [TABFYE](https://github.com/Karthikeshwar1/TABFYE)     | Take-A-Break-For-Your-Eyes!                                                                            | 4, Jun 2020      |
+| [JumpG](https://github.com/Karthikeshwar1/JumpG)       | A Windows console game inspired from Google's T-rex game!                                              | 2, Apr-Jun 2019  |
+| [GRA](https://github.com/Karthikeshwar1/GRA)           | Gesture Recognition Application (for RevaHack 2020)                                                    | 4, Nov 2020      |
 
 <br>
 
@@ -34,22 +34,22 @@ Just joking -->
 | [controller-vibration-tester](https://github.com/Karthikeshwar1/controller-vibration-tester) | A python script to test vibration motors of game controllers |
 | [Misc](https://github.com/Karthikeshwar1/Misc)                                               | miscellaneous                                                |
 | [Wiki-Wordcloud-Maker](https://github.com/Karthikeshwar1/Wiki-Wordcloud-Maker)               | Creates a wordcloud image based on a given Wikipedia article |
-| [Etcch-A-Sketch](https://github.com/Karthikeshwar1/Etcch-A-Sketch)                           | Drawing app inspired from the popular toy Etch A Sketch   |
-| [algorithms_visualization](https://github.com/Karthikeshwar1/algorithms_visualization)       | Visualizing algorithms using Processing 3                 |
-| [The Witcher 3 Haircut Preview](https://github.com/Karthikeshwar1/TheWitcher3HaircutPreview) | Preview haircuts in the game The Witcher 3                |
+| [Etcch-A-Sketch](https://github.com/Karthikeshwar1/Etcch-A-Sketch)                           | Drawing app inspired from the popular toy Etch A Sketch      |
+| [algorithms_visualization](https://github.com/Karthikeshwar1/algorithms_visualization)       | Visualizing algorithms using Processing 3                    |
+| [The Witcher 3 Haircut Preview](https://github.com/Karthikeshwar1/TheWitcher3HaircutPreview) | Preview haircuts in the game The Witcher 3                   |
 
 <br>
 
-| [Articles](https://github.com/Karthikeshwar1/Karthikeshwar1/tree/main/blog)     |
-| ----------- | 
-| [Essential Software For Computers](https://github.com/Karthikeshwar1/Karthikeshwar1/blob/main/blog/articles_2021/Essential_Software_For_Computers.md)  |
-| [Essential Software For Smartphones](https://github.com/Karthikeshwar1/Karthikeshwar1/blob/main/blog/articles_2021/Essential_Software_For_Smartphones.md) |
+| [Articles](https://github.com/Karthikeshwar1/blog)                                                                                |
+| --------------------------------------------------------------------------------------------------------------------------------- |
+| [Essential Software For Computers](https://github.com/Karthikeshwar1/blog/blob/main/2021/Essential_Software_For_Computers.md)     |
+| [Essential Software For Smartphones](https://github.com/Karthikeshwar1/blog/blob/main/2021/Essential_Software_For_Smartphones.md) |
 
 <br>
 
-| Artwork     | Description   |
-| ----------- | ------------- |
-| [Game-captures](https://github.com/Karthikeshwar1/Game-captures)  | Amazing photos captured within games |
+| Artwork                                                          | Description                          |
+| ---------------------------------------------------------------- | ------------------------------------ |
+| [Game-captures](https://github.com/Karthikeshwar1/Game-captures) | Amazing photos captured within games |
 
 <h3 align="center">
 
@@ -73,6 +73,6 @@ Just joking -->
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthikeshwar/)
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://spotify.com)
 
-<!-- 
+<!--
 [![Portfolio website](https://badgen.net/badge/Portfolio/website/red?icon=chrome)](https://karthikeshwar1.github.io)
 [![Portfolio website lite](https://badgen.net/badge/Portfolio/website%20lite/orange?icon=firefox)](https://karthikeshwar1.github.io/lite) -->
