@@ -44,6 +44,8 @@ Just joking -->
 | --------------------------------------------------------------------------------------------------------------------------------- |
 | [Essential Software For Computers](https://github.com/Karthikeshwar1/blog/blob/main/2021/Essential_Software_For_Computers.md)     |
 | [Essential Software For Smartphones](https://github.com/Karthikeshwar1/blog/blob/main/2021/Essential_Software_For_Smartphones.md) |
+| [Recommended Books On Computers And Tech](https://github.com/Karthikeshwar1/blog/blob/main/2022/Recommended_Books_On_Computers_And_Tech.md)  |
+
 
 <br>
 
