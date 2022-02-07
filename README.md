@@ -36,7 +36,7 @@
 | [Etcch-A-Sketch](https://github.com/Karthikeshwar1/Etcch-A-Sketch)                           | Drawing app inspired from the popular toy Etch A Sketch      |
 | [algorithms_visualization](https://github.com/Karthikeshwar1/algorithms_visualization)       | Visualizing algorithms using Processing 3                    |
 | [The Witcher 3 Haircut Preview](https://github.com/Karthikeshwar1/TheWitcher3HaircutPreview) | Preview haircuts in the game The Witcher 3                   |
-| [LIARG!](https://github.com/Karthikeshwar1/LIARG)     | A software to help track your tasks RPG style! |
+| [LIARG!](https://github.com/Karthikeshwar1/LIARG) (Prototype)     | A software to help track your tasks RPG style! |
 
 <br>
 
