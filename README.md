@@ -37,7 +37,7 @@
 | [algorithms_visualization](https://github.com/Karthikeshwar1/algorithms_visualization)       | Visualizing algorithms using Processing 3                    |
 | [The Witcher 3 Haircut Preview](https://github.com/Karthikeshwar1/TheWitcher3HaircutPreview) | Preview haircuts in the game The Witcher 3                   |
 | [LIARG!](https://github.com/Karthikeshwar1/LIARG) (Prototype)     | A software to help track your tasks RPG style! |
-| [ptzbak!](https://github.com/Karthikeshwar1/ptzbak-)              | ZskholHūkpl ksfpiwth ik faoOIFJO.  |
+| [ptzbak!](https://github.com/Karthikeshwar1/ptzbak)              | ZskholHūkpl ksfpiwth ik faoOIFJO.  |
 
 <br>
 
