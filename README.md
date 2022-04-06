@@ -51,9 +51,10 @@
 
 <br>
 
-| Artwork                                                          | Description                          |
+| Artwork & Compilations                                                         | Description                          |
 | ---------------------------------------------------------------- | ------------------------------------ |
 | [Game-captures](https://github.com/Karthikeshwar1/Game-captures) | Amazing photos captured within games |
+| [LeetCode solutions](https://github.com/Karthikeshwar1/LeetCode-solutions)  | Solutions to problems on Leetcode |
 
 <h3 align="center">
 
