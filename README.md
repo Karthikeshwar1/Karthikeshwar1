@@ -51,10 +51,11 @@
 
 <br>
 
-| Artwork & Compilations                                                         | Description                          |
+| Artwork & Compilations & Fun!                                                        | Description                          |
 | ---------------------------------------------------------------- | ------------------------------------ |
 | [Game-captures](https://github.com/Karthikeshwar1/Game-captures) | Amazing photos captured within games |
 | [LeetCode solutions](https://github.com/Karthikeshwar1/LeetCode-solutions)  | Solutions to problems on Leetcode |
+| [Puzzle!](https://github.com/Karthikeshwar1/Puzzle) | An elaborate puzzle game based purely on logic and some GitHub knowledge! |
 
 <h3 align="center">
 
