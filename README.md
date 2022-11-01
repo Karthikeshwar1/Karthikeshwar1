@@ -78,7 +78,7 @@
 
 [![Github website link](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://karthikeshwar.github.io)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthikeshwar/)
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://spotify.com)
+[![SoundCloud](https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/karthikeshwar1)
 
 <!--
 [![Portfolio website](https://badgen.net/badge/Portfolio/website/red?icon=chrome)](https://karthikeshwar1.github.io)
