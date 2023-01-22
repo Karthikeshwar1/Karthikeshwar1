@@ -45,8 +45,8 @@
 | --------------------------------------------------------------------------------------------------------------------------------- |--|
 | [Essential Software For Computers](https://github.com/Karthikeshwar1/blog/blob/main/2021/Essential_Software_For_Computers.md)     | [Software Engineer's Dish](https://github.com/Karthikeshwar1/blog/blob/main/2022/Software_Engineer's_Dish.md) |
 | [Essential Software For Smartphones](https://github.com/Karthikeshwar1/blog/blob/main/2021/Essential_Software_For_Smartphones.md) | [Peoples of Times](https://github.com/Karthikeshwar1/blog/blob/main/2022/Peoples_Of_Times.md) |
-| [Recommended Books On Computers And Tech](https://github.com/Karthikeshwar1/blog/blob/main/2022/Recommended_Books_On_Computers_And_Tech.md)  | |
-| [Song Of The Year](https://github.com/Karthikeshwar1/blog/blob/main/2022/Song_Of_The_Year.md) | |
+| [Recommended Books On Computers And Tech](https://github.com/Karthikeshwar1/blog/blob/main/2022/Recommended_Books_On_Computers_And_Tech.md)  | [AI in 2022](https://karthikeshwar1.github.io/blog/2022/AI_in_2022) |
+| [Song Of The Year](https://github.com/Karthikeshwar1/blog/blob/main/2022/Song_Of_The_Year.md) | [All about Abstract (a series)](https://karthikeshwar1.github.io/aaA/) |
 | [Best Medical Resources](https://github.com/Karthikeshwar1/blog/blob/main/2022/Best_Medical_Resources.md) | |
 
 <br>
