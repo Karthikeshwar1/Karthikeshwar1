@@ -10,7 +10,7 @@
 
 </h3>
 
-<p align="center">I'm a computer science student interested in artificial intelligence, machine learning and human-computer interaction.
+<p align="center">I'm a software engineer interested in artificial intelligence, machine learning and human-computer interaction.
 <br>
 
 </p>
