@@ -42,12 +42,10 @@
 
 | Articles                                                                               | |
 | --------------------------------------------------------------------------------------------------------------------------------- |--|
-| [Essential Software For Computers](https://karthikeshwar1.github.io/blog/2021/Essential_Software_For_Computers)     | [List of research papers published/written by me](https://github.com/Karthikeshwar1/Karthikeshwar1/tree/main/papers) |
-| [Essential Software For Smartphones](https://karthikeshwar1.github.io/blog/2021/Essential_Software_For_Smartphones) | [Peoples of Times](https://karthikeshwar1.github.io/blog/2022/Peoples_Of_Times) |
-| [Recommended Books On Computers And Tech](https://karthikeshwar1.github.io/blog/2022/Recommended_Books_On_Computers_And_Tech)  | [AI in 2022](https://karthikeshwar1.github.io/blog/2022/AI_in_2022) |
-| [Song Of The Year](https://karthikeshwar1.github.io/blog/2022/Song_Of_The_Year) | [All about Abstract (a series)](https://karthikeshwar1.github.io/aaA/) |
-| [Best Medical Resources](https://karthikeshwar1.github.io/blog/2022/Best_Medical_Resources) | [Software Engineer's Dish](https://github.com/Karthikeshwar1/blog/blob/main/2022/Software_Engineer's_Dish.md) |
-| [LeetCode solutions](https://github.com/Karthikeshwar1/LeetCode-solutions) | |
+| [List of research papers published/written by me](https://github.com/Karthikeshwar1/Karthikeshwar1/tree/main/papers) | [Best Medical Resources](https://karthikeshwar1.github.io/blog/2022/Best_Medical_Resources) |
+| [Essential Software For Computers](https://karthikeshwar1.github.io/blog/2021/Essential_Software_For_Computers)    | [Essential Software For Smartphones](https://karthikeshwar1.github.io/blog/2021/Essential_Software_For_Smartphones) |  |
+| [Recommended Books On Computers And Tech](https://karthikeshwar1.github.io/blog/2022/Recommended_Books_On_Computers_And_Tech)  | [Song Of The Year](https://karthikeshwar1.github.io/blog/2022/Song_Of_The_Year) |
+| [LeetCode solutions](https://github.com/Karthikeshwar1/LeetCode-solutions) | [More...](https://karthikeshwar1.github.io/blog.html) |
 
 <br>
 
