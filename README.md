@@ -1,4 +1,4 @@
-[![](images/banner_3.png)](https://karthikeshwar1.github.io/)
+<!-- [![](images/banner_3.png)](https://karthikeshwar1.github.io/) -->
 
 <!-- <body style="background-color:white;"> -->
 <h6 align="center">
@@ -10,8 +10,10 @@
 
 </h6>
 
-<p align="center">I'm a software engineer interested in artificial intelligence, machine learning and human-computer interaction.
+### Hi!
+I'm a software engineer interested in artificial intelligence, machine learning and human-computer interaction.
 <br>
+
 
 </p>
 
