@@ -6,6 +6,8 @@ Checkout my [website](https://karthikeshwar1.github.io/projects.html) for the fu
 
 <br>
 
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthikeshwar/)
+
 <details><summary>Github stats</summary>
  <br>
   
@@ -13,8 +15,3 @@ Checkout my [website](https://karthikeshwar1.github.io/projects.html) for the fu
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=karthikeshwar1&custom_title=github%20stats&line_height=33&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
-
-<br>
-
-[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthikeshwar/)
-
