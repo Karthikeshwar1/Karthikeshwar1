@@ -1,6 +1,10 @@
 ### Trying my best to be the best
 
+<br>
+
 Checkout my [website](https://karthikeshwar1.github.io/projects.html) for the full list of projects.
+
+I love to build software that improves humanity.
 
 <br>
 
@@ -12,17 +16,7 @@ Checkout my [website](https://karthikeshwar1.github.io/projects.html) for the fu
 
 </details>
 
-<h6 align="center">
-
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Playfair+Display&color=808080&size=29&center=true&width=500&height=100&lines=Get+lost;Tolagi+h%C5%8Dgu;bhaad+mein+jao;Tolaintu+p%C5%8D;Usero;Skedaddle)](https://git.io/typing-svg) -->
-
-</h6>
 <br>
 
-[![Github website link](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://karthikeshwar.github.io)
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/karthikeshwar/)
-[![SoundCloud](https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/karthikeshwar1)
 
-<!--
-[![Portfolio website](https://badgen.net/badge/Portfolio/website/red?icon=chrome)](https://karthikeshwar1.github.io)
-[![Portfolio website lite](https://badgen.net/badge/Portfolio/website%20lite/orange?icon=firefox)](https://karthikeshwar1.github.io/lite) -->
