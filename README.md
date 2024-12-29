@@ -2,6 +2,8 @@
 
 Checkout my [website](https://karthikeshwar1.github.io/projects.html) for the full list of projects.
 
+<br>
+
 <details><summary>Github stats</summary>
  <br>
   
