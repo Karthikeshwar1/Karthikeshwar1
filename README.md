@@ -2,7 +2,7 @@
 
 <br>
 
-Checkout my [website](https://karthikeshwar1.github.io/projects.html) for the full list of projects.
+Checkout my [website](https://karthikeshwar1.github.io/projects.html) for the full list of my projects.
 
 <br>
 
