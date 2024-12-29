@@ -4,8 +4,6 @@
 
 Checkout my [website](https://karthikeshwar1.github.io/projects.html) for the full list of projects.
 
-I love to build software that improves humanity.
-
 <br>
 
 <details><summary>Github stats</summary>
